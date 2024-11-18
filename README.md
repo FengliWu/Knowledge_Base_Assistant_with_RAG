@@ -1,4 +1,4 @@
-# Knowledge Base Assistant with RAG
+# Personal Knowledge Base Assistant
 
 ![preview](figures/preview.png)
 
@@ -19,7 +19,8 @@ This project is a knowledge base assistant with retrieval-augmented generation (
 - **Vector Database**: Chroma DB
 
 ## Project Structure
-Knowledge_Base_Assistant_with_RAG/
+```plaintext
+Personal_Knowledge_Base_Assistant/
 ├── .env
 ├── .vscode/
 │   └── settings.json
