@@ -1,6 +1,6 @@
 # Knowledge Base Assistant with RAG
 
-![alt text](figures\preview.png)
+![preview](figures/preview.png)
 
 ## Description
 This project is a knowledge base assistant with retrieval-augmented generation (RAG) based on LangChain and Gradio. It integrates various large language models (LLMs) and embeddings to provide a comprehensive question-answering system with and without history.
