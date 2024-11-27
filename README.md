@@ -18,11 +18,8 @@ This project is a knowledge base assistant with retrieval-augmented generation (
 - **Vector Database**: Chroma DB
 
 ## Project Structure
-```plaintext
+```
 Personal_Knowledge_Base_Assistant/
-├── .env
-├── .vscode/
-│   └── settings.json
 ├── chroma/
 │   └── chroma.sqlite3
 ├── database/
@@ -36,6 +33,7 @@ Personal_Knowledge_Base_Assistant/
 │   └── zhipuai_embedding.py
 ├── figures/
 ├── knowledge_db/
+│   ├── sample_file
 ├── llm/
 │   ├── call_llm.py
 │   ├── self_llm.py
@@ -52,3 +50,6 @@ Personal_Knowledge_Base_Assistant/
 │   ├── run_gradio.py
 │   └── api.py
 └── vector_db/
+```
+
+Feel free to open issues and pull requests to contribute!
