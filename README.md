@@ -11,7 +11,6 @@ This project is a knowledge base assistant with retrieval-augmented generation (
 - **Multiple LLMs**: Integrates multiple large language models including OpenAI, Wenxin, Xinhuo, and ZhipuAI.
 - **Embeddings**: Supports embeddings from OpenAI, ZhipuAI, and M3E.
 - **Gradio Interface**: Provides an interactive Gradio interface for user interaction.
-- **Environment Configuration**: Uses dotenv for managing environment variables.
 
 ## Tech Stack
 - **LLM Framework**: LangChain
